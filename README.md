@@ -1,4 +1,4 @@
-# Weather Report Generator
+# 🌤️Weather Report Generator⛈️
 
 A desktop GUI app that lets you click a map (or enter coordinates), choose a date, and generate a PDF precipitation report for the prior 7 days. Data is pulled from the Visual Crossing Weather API and exported as a clean table with 48-hour and 7-day totals.
 
