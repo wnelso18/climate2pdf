@@ -65,7 +65,7 @@ pyinstaller --noconfirm --onefile --windowed --name Climate2PDF ^
 ```
 
 #### 6) Notes
-```
+
 PyInstaller will create build/ (temporary files) and dist/ (final output).
 
 For sharing, you typically distribute the executable found in dist/.
