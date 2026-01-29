@@ -20,6 +20,9 @@ A desktop GUI app that lets you click a map (or enter coordinates), choose a dat
 
 ## Setup
 
+####Link to crate a Visual Corssing Weather API Account
+https://www.visualcrossing.com/sign-up/
+
 ### 1) Create and activate a virtual environment (recommended)
 **Windows (PowerShell)**
 ```
